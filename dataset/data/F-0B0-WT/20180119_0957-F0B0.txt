@@ -28,4 +28,3 @@ Event: right	Answer: yes	RT: 1833	Time: 09:56:10_19/01/2018
 Event: left	Answer: yes	RT: 3244	Time: 09:56:21_19/01/2018
 Event: left	Answer: yes	RT: 4548	Time: 09:56:35_19/01/2018
 Event: left	Answer: yes	RT: 1540	Time: 09:56:48_19/01/2018
-
